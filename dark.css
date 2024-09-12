@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(14, 12, 30);
+}
+header > nav > button{
+    color: rgb(227, 212, 212);
+    background-color: transparent;
+    box-shadow: 0 0 5px rgba(213, 199, 199, 0.382);
+}
+section{
+    box-shadow: 0 0 5px rgba(213, 199, 199, 0.382);
+}
+section > form{
+    color: rgba(250, 245, 245, 0.411);
+    background-color: rgb(16, 14, 26);
+}
+section > form > button{
+    color: rgba(250, 245, 245, 0.411);
+    background-color: transparent;
+    box-shadow: 0 0 5px rgba(213, 199, 199, 0.382);
+}
+section > form > button:hover{
+    background-color: rgb(133, 149, 196);
+    color: rgb(14, 12, 30);
+}
+section > form > div > input{
+    background-color: rgb(14, 12, 30);
+    box-shadow: 0 0 5px rgba(213, 199, 199, 0.382);
+}
+section > form > div > input{
+    color: rgba(250, 245, 245, 0.411);
+}
+main > div{
+    color: rgba(5, 85, 5, 0.716);
+    box-shadow: 0 0 5px rgba(213, 199, 199, 0.382);
+}
